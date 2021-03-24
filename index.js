@@ -30,5 +30,5 @@ let target = generateNumber(); // get your num
                 btn[0].click();
             }
         }
-    }, 300)
+    }, 30000)
 })(target);
